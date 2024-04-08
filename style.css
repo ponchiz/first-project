@@ -1,0 +1,9 @@
+body {
+    background-color: #44be93;
+}
+.title {
+    background-color: #92ff9b;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+}
